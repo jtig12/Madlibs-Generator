@@ -6,6 +6,8 @@
 
 ### Steps taken to develop the project
 
+    below are the steps taken
+
 ---
 
 1. First step is to generate a story and open a file and put it as a text file. The words we want the user to be able to change starts and is enclosed in <>
